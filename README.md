@@ -1,4 +1,4 @@
-![logo](https://github.com/ishaq9754/Mohd-Ishaque/blob/main/3078490.jpg)
+![logo](https://github.com/ishaq9754/ishaq9754/blob/main/3078490.jpg)
 <h1 align="center">Hi 👋, I'm Mohd Ishaque</h1>
 <h3 align="center">A passionate frontend developer from Delhi,India India</h3>
 
